@@ -1,0 +1,6 @@
+{
+  "name": "HydroFlow: Manning & Chezy Hydraulic Flow Calculator",
+  "description": "An open-channel hydraulic flow rate calculation tool using Chezy's and Manning's equations with automated calculations, unit conversions, input validation, graphical presentation, and Python source export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
